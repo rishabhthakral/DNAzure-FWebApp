@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "2J1BXGn3/7BMjf/9iHX+sdKsz0P0ls0N9svWWNAhm0uSsqT+A1uqfOEzhcYJVjGYhYSaN+7gDQqahwLsQGXrMQ==",
+  "success": false,
+  "projectFilePath": "C:\\CognizantLearning\\WebAPI_ForAzure\\WebAPI_ForAzure.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Swashbuckle.AspNetCore (>= 6.2.3)' for 'net6.0'.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
